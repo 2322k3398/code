@@ -200,3 +200,20 @@ CREATE TABLE users (
 
 
 ------------------------------------------
+comments to run:
+
+Python backend:
+
+python app.py
+
+------------
+
+React frontend:
+
+bash     npm run dev
+
+------------
+
+database:
+
+USE user_registration;     SELECT * FROM users;
